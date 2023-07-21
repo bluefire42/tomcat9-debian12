@@ -1,4 +1,4 @@
-# Install Tomcat9 on Debian 12
+# Install Tomcat 9 on Debian 12
 
 ## Install prerequisites
 ```
